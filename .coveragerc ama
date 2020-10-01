@@ -1,3 +1,4 @@
+start
 [run]
 branch = True
 source = jsonpath_rw
